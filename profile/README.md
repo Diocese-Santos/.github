@@ -29,6 +29,7 @@ A big thank you to everyone contributing to the Diocese Santos projects. Below a
 - [João Victor](https://github.com/joaovds)
 - [Gabriel Carvalho](https://github.com/GabrielQuinteiro)
 - [Leticia Silverio](https://github.com/devLeSilverio)
+- [Vitor Cavicholli](https://github.com/Vitorcavic)
 - [Rennys](https://github.com/yrsenn)
 
 Want to contribute? Feel free to open an issue, submit a pull request, or reach out to one of the maintainers!
